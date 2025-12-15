@@ -1,4 +1,4 @@
-# AIProject-team
+# AI Project-team
 AI project for university using search algorithms
 still working on it so expect unfinished parts
 # 8-Puzzle Solver: AI Search Algorithms
